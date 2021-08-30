@@ -58,9 +58,10 @@ footer: "Rahul Sharma Rocks :heart:"
 <style scoped> { font-size:24px;}</style>
 ---
 
-### your name Says:
-####  headline you want to give
-##### your message
+### Rajesh Munjal Says:
+####  Smart Hardworker!!!
+##### It was wonderrful working with you buddy and knowing you in person. You are a great team player. You will be missed. All the best for the future. Keep innovating. Cheers
+
 <!-- _class: lead -->
 <style scoped> { font-size:24px;}</style>
 ---
